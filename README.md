@@ -1,7 +1,7 @@
-Blitz Anti-Cheat for Minecraft (In Development)
+<h1>Blitz Anti-Cheat for Minecraft (In Development)<h1>
 Blitz Anti-Cheat for Minecraft is an ongoing project aimed at providing an effective anti-cheat solution to safeguard multiplayer Minecraft servers from cheaters and hackers. As it is currently in the development phase, it may not yet be suitable for production environments. Nevertheless, it aims to ensure fair gameplay and maintain the integrity of the Minecraft experience for all players.
 
-Features
+<h2>Features<h2>
 Work in Progress: Blitz Anti-Cheat is actively being developed to enhance its capabilities and improve cheat detection mechanisms.
 Client-Side Detection: It includes basic client-side detection mechanisms to prevent common cheat methods in Minecraft.
 Customizable Rules: The anti-cheat system will offer customizable rules to accommodate different Minecraft server configurations.
